@@ -1,0 +1,78 @@
+/* .home_col2 .head_p{
+  color: white;
+} */
+ /* .home_col2_row2_span li .spann{
+    display: inline-block;
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-left: 2px solid salmon;
+    margin-left:20px;
+ } */
+  /* .home_col2_row2{
+    width: 341px;
+    height: 132px;
+    background: #fff;
+  } */
+   /* .home_bg{
+    width: 341px;
+    height: 132px;
+    background: #000;
+    position: absolute;
+    left: 700px;
+    top: -30px;
+    z-index: 999;
+   } */
+    .protfolio_row3{
+        overflow: hidden;
+    }
+    .about_col2_heading_span{
+        height: 34px;
+        line-height: 90px;
+        background: #fff;
+        overflow: hidden;
+    }
+    .about_col2_heading_span li{
+        list-style: none;
+        animation: slide 4s steps(2) infinite;
+        position: relative;
+        top: 0;
+    }
+    @keyframes slide{
+        100%{
+           top: -74px;
+        }
+      }
+    .about_col2_heading ul li span{
+        position: relative;
+    }
+  .about_col2_heading ul li span::after{
+    display: inline-block;
+    content: '';
+    position: absolute;
+    height: 40px;
+    width: 176px;
+    border-left: 2px solid salmon;
+    left: 0px;
+    animation: typing 2s steps(13) infinite;
+    background: #fff;
+  }
+  @keyframes typing{
+    100%{
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+  }
+  .protfolio_row3_job_comment{
+    width: calc(652px * 6);
+    animation: scrool 20s linear infinite;
+  }
+  @keyframes scrool{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-652px * 3));
+    }
+  }
