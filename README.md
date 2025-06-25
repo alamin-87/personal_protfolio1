@@ -41,14 +41,14 @@ A clean, modern, and responsive personal portfolio website built using the **MER
 ## 📦 Dependencies
 
 ```bash
-"axios": "^1.x.x"
-"aos": "^3.x.x"
-"daisyui": "^4.x.x"
-"lottie-react": "^2.x.x"
-"react": "^18.x.x"
-"react-dom": "^18.x.x"
-"react-router-dom": "^6.x.x"
-"react-icons": "^5.x.x"
-"sweetalert2": "^11.x.x"
-"vite": "^5.x.x"
-"tailwindcss": "^3.x.x"
+ "axios": "^1.6.7",
+  "aos": "^3.0.0-beta.6",
+  "daisyui": "^4.10.2",
+  "lottie-react": "^2.4.0",
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-router-dom": "^6.23.1",
+  "react-icons": "^5.2.0",
+  "sweetalert2": "^11.10.7",
+  "vite": "^5.2.10",
+  "tailwindcss": "^3.4.3"
