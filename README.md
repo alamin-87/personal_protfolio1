@@ -4,13 +4,13 @@ A clean, modern, and responsive personal portfolio website built using the **MER
 
 ## 🌐 Live Website
 
-🔗 [Visit Portfolio](https://your-portfolio-link.com)
+🔗 [Visit Portfolio](https://personal-protfolio1.vercel.app/)
 
 ---
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](./screenshot.png) <!-- Replace with your actual screenshot path or URL -->
+![Portfolio Screenshot](https://personal-protfolio1.vercel.app/) <!-- Replace with your actual screenshot path or URL -->
 
 ---
 
