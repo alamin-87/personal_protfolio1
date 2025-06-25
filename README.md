@@ -51,10 +51,10 @@ A clean, modern, and responsive personal portfolio website built using the **MER
   "react-icons": "^5.2.0",
   "sweetalert2": "^11.10.7",
   "vite": "^5.2.10",
-  "tailwindcss": "^3.4.3"
-
+  "tailwindcss": "^3.4.3" ```
+---
 📁 Clone the Repository
 ```bash
 git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+cd your-portfolio ```
 
